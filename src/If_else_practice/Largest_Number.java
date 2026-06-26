@@ -1,5 +1,5 @@
 package If_else_practice;
-
+// find largest number
 import java.util.Scanner;
 
 class Largest_Number {
@@ -15,7 +15,7 @@ class Largest_Number {
 
         if(num1 >= num2 && num1>=num3){
             System.out.println(num1 +" This is greater number");
-        } else if (num2>=1 && num2>=num3) {
+        } else if (num2 >= num1 && num2 >= num3) {
             System.out.println(num2+" This number is greater");
         }else {
             System.out.println(num3+ " This number is greater");
