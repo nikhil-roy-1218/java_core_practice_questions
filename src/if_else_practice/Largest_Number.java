@@ -1,4 +1,4 @@
-package If_else_practice;
+package if_else_practice;
 // find largest number
 import java.util.Scanner;
 
